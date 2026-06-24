@@ -1,4 +1,7 @@
 # Changelog
+## 2026-06-24
+- Updated blocklist with 123124 domains (change: +123124)
+
 ## 2026-06-23
 - Updated blocklist with 123115 domains (change: +123115)
 
